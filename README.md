@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalbansal123&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalbansal123&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalbansal123&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalbansal123&layout=compact&theme=dark)
 
 ---
 
