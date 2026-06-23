@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalbansal123&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalbansal123&layout=compact)
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/vatsalbansal123
+- LinkedIn: https://www.linkedin.com/in/vatsal-bansal-875767369/
+- Email: bansalvatsal2007@gmail.com
+
+---
