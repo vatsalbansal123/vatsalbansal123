@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/vatsal-bansal-875767369/">
+  <a href="https://www.linkedin.com/in/vatsal-bansal-875767369/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
